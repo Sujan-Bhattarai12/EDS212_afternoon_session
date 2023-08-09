@@ -1,0 +1,21 @@
+---
+title: "Day 3 afternoon session"
+format: html
+editor: visual
+---
+
+Vectors
+
+```{r}
+marmots <- c("Blue","Green", "Four", 'yellow', TRUE)
+class(marmots)
+#Take some notes
+```
+
+```{r}
+pika <- c(2, 5 , 4 , 5)
+```
+
+```{r}
+baer <- c(12L, 13L, 45L)
+```
